@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Hair Care 2</string>
+    <string name="tvAppTitle">The Mane Source</string>
+    <string name="btPlay">Play Song</string>
+    <string name="tvSelectCategory">Select a hair category to begin</string>
+    <string name="tvLandingImageDescription">Group of women with various hair types</string>
+    <string name="tvWavy">Wavy</string>
+    <string name="tvCurly">Curly</string>
+    <string name="tvCoily">Coily</string>
+    <string name="tvTitleWavy">Wavy Hair</string>
+    <string name="tvTitleCurly">Curly Hair</string>
+    <string name="tvTitleCoily">Coily Hair</string>
+    <string name="tvWavyDesc">"Wavy hair, also known as type 2 hair, is the hair type that sits in between straight and curly, from loose loops to ‘S’ shaped waves. The waves can appear looser and more tousled than other hair types. Type 2 hair can be split into three different subtypes: 2A, 2B, and 2C. "</string>
+    <string name="tvCurlyDesc">Curly hair, also known as type 3 hair, is described as having either ‘O’ or corkscrew-shaped curls. These curls can range anywhere from loose to as tight as a pencil diameter. Curly hair can be further broken down into type 3A, 3B, and 3C hair, depending on how tight the curl pattern is.</string>
+    <string name="tvCoilyDesc">Coily hair, also known as type 4 hair, has either very tight coils that begin at the scalp, or ‘Z’ shaped angles. This hair type is more voluminous than the others but is also the most delicate and requires the most care. Type 4 hair can be divided into three subcategories: 4A, 4B, and 4C.</string>
+    <string-array name="tvWavyGroup">
+        <item>2A Hair</item>
+        <item>2B Hair</item>
+        <item>2C Hair</item>
+    </string-array>
+    <string-array name="tvCurlyGroup">
+        <item>3A Hair</item>
+        <item>3B Hair</item>
+        <item>3C Hair</item>
+    </string-array>
+    <string-array name="tvCoilyGroup">
+        <item>4A Hair</item>
+        <item>4B Hair</item>
+        <item>4C Hair</item>
+    </string-array>
+    <string name="btGo">Go to hair type</string>
+    <string name="tvMore">More Resources</string>
+    <string name="btTips">Tips and Tricks</string>
+    <string name="btStyles">Hairstyles</string>
+    <string name="btProducts">Hair Products</string>
+    <string name="tvSelectType">Select a hair type for more info</string>
+    <string name="tvTitle2A">Type 2A Hair</string>
+    <string name="tvTitle2B">Type 2B Hair</string>
+    <string name="tvTitle2C">Type 2C Hair</string>
+    <string name="tvTitle3A">Type 3A Hair</string>
+    <string name="tvTitle3B">Type 3B Hair</string>
+    <string name="tvTitle3C">Type 3C Hair</string>
+    <string name="tvTitle4A">Type 4A Hair</string>
+    <string name="tvTitle4B">Type 4B Hair</string>
+    <string name="tvTitle4C">Type 4C Hair</string>
+    <string name="tv2ADesc">If you have hair that has a slight bend, but still lays pretty close to the head, you’d identify as 2A. Type 2A hair grows straight at the crown and creases toward the end. The hair is very fine, and the wave shape ranges from loose loops to S-shaped waves that diverge slightly from straight lines.</string>
+    <string name="tv2BDesc">Type 2B hair has a curl pattern that lays closed to the head with a consistent S-shaped pattern throughout the hair. The hair grows straight but starts to form medium to large S-shaped waves from the mid-lengths. It has a medium texture and is slightly frizzier than Type 2A hair.</string>
+    <string name="tv2CDesc">Type 2C hair is the waviest and thickest in its category. The S-shaped pattern is more defined and may start closer to the scalp. Some may also find that large waves can appear as ringlets throughout the head, though they do not form complete springs, which distinguishes it from curls.</string>
+    <string name="tv3ADesc">If you have large, bouncy curls, there is a good chance you have type 3A hair. 3A strands tend to be shiny with large, loose curls that have a diameter about the size of a piece of sidewalk chalk. This hair type benefits from a lot of body and movement but is also prone to frizz and dryness.</string>
+    <string name="tv3BDesc">Type 3B hair has tighter curls with a combination of textures. The strands are springy ringlets with a circumference similar to that of a Sharpie marker. Since 3B strands are tighter than 3A strands, those with 3B hair typically have a mane that is fuller in appearance.</string>
+    <string name="tv3CDesc">3C curls are tight corkscrews that range in circumference from a straw to a pencil. Type 3C hair strands can vary from precisely define to loose helixes. They are also densely packed together, making the hair naturally voluminous.</string>
+    <string name="tv4ADesc">Type 4A coils can be recognized by their small but distinctively S-shaped strands sequenced into looped, tight rings. The coils are dense and springy, and are about the same circumference as a crochet needle. While other curl patterns may start mid-length, this coily texture begins at the scalp and continues through the ends.</string>
+    <string name="tv4BDesc">4B hair is characterized by its tiny, zig-zagged pattern, which is often accompanied by compressed and s-shape coils. The strands are densely packed and can bend in sharp angles like the letter Z. Those with this hair type may deal with dryness and tangles.</string>
+    <string name="tv4CDesc">4C textures are similar to 4B textures, but the coils have a tight zig-zag shape that sometimes makes the pattern difficult to see. 4C strands are very delicate and range from super fine and soft to coarse and wiry. Those with 4C hair are also prone to the most breakage and shrinkage out of all the curly hair types.</string>
+    <string name="tvTitleTipsWavy">Caring for Wavy Hair</string>
+    <string name="tvTitleTipsCurly">Caring for Curly Hair</string>
+    <string name="tvTitleTipsCoily">Caring for Coily Hair</string>
+    <string name="tvWashing">Washing</string>
+    <string name="tvConditioning">Conditioning</string>
+    <string name="tvStyling">Styling</string>
+    <string name="tvWash2">To care for type 2 hair, it is important to use a volumizing shampoo and conditioner, as well as a deep conditioning mask and leave-in conditioner. Additionally, using a light-hold curl cream when the hair is damp can help to define the curls. It is also important to clarify the hair regularly to remove build up and residue that can cause it to look dull and feel heavy.</string>
+    <string name="tvCondition2">Regular hydration is important for type 2 hair to keep it moisturized and healthy. Use a conditioner every time they wash their hair, a leave-in conditioner in between washes, and a deep conditioning mask for an extra hydration boost.</string>
+    <string name="tvStyle2">Fine type 2 hair can be weighed down easily, flattening the natural wave. Choose lightweight and volumizing formulas such as liquid gels for definition. To avoid flattening of the natural waves, try not to layer products. Additionally, always use a heat protectant spray before styling with heat tools to prevent damage to your hair. Brush the hair regularly with a wide-toothed comb to help keep it healthy and tangle-free. To keep roots lifted between washes, opt for a clean, scalp-supporting dry shampoo. Dabbing on a hair serum can also help define waves post-wash.</string>
+    <string name="tvWash3">Cleansing your hair will allow you to remove product buildup from your hair and scalp, as well as to detangle your hair. Detangling when wet is the best way to avoid unnecessary damage. Aim to wash your hair once per week (or whenever oil and buildup become apparent). Since type 3 hair is prone to dryness, using a sulfate-free shampoo will avoid stripping natural oils from the hair.</string>
+    <string name="tvCondition3">Always follow shampoo with a conditioner. Additionally, you should deep condition regularly. The frequency can range from once per week to a couple times per month, depending on how much moisture your hair needs. Generally, it is recommended to apply a deep conditioner with heat for 15-30 minutes. Depending on your hair needs, choose between using a regular conditioner or a deep conditioner on your wash day.</string>
+    <string name="tvStyle3">Styling type 3 hair while still wet is recommended. Strong-hold styling products such as leave-in conditioners and gels can help reduce frizz and define curls. Twirling small sections of curls around your fingers can encourage definition.</string>
+    <string name="tvWash4">While washing your hair is essential to removing product buildup, those with type 4 hair should be weary of over-washing. Washing it too many times strips the hair of its natural oils, which can lead to dryness, breakage, and thinning. Lengthen the time in between washes to two to four weeks and avoid shampoos that contain harmful ingredients like parabens and sulfates. Additionally, partition hair into sections before washing to prevent tangles.</string>
+    <string name="tvCondition4">Deep conditioning is especially important for type 4 hair, as it is prone to the most breakage. By deep conditioning your hair, you are strengthening and enabling it to lock in moisture. It is advisable that you deep condition weekly or every two weeks to replenish the moisture and natural oils lost from washing. Deep conditioners should be kept longer, anywhere between 20 minutes to an hour.</string>
+    <string name="tvStyle4">The key to styling type 4 hair is finding products and techniques that add definition, shine, and moisture. However, styling hair frequently or excessively using styling products have a way of drying out the hair. Instead of changing your hairstyles every other day, schedule specific times that you’d style your hair. This can be once a week, once in two weeks, or even monthly. Additionally, opt for protective styles that allow for low manipulation.</string>
+    <string name="tvTitleStylesWavy">Hairstyles for Wavy Hair</string>
+    <string name="tvTitleStylesCurly">Hairstyles for Curly Hair</string>
+    <string name="tvTitleStylesCoily">Hairstyles for Coily Hair</string>
+    <string name="tvStylesSubtext">Check out the videos below for hairstyles and tutorials for your hair type</string>
+    <string name="tvTitleProductsWavy">Products for Wavy Hair</string>
+    <string name="tvTitleProductsCurly">Products for Curly Hair</string>
+    <string name="tvTitleProductsCoily">Products for Coily Hair</string>
+    <string name="tvProductsSubtext">Check out these products recommended for your hair type</string>
+</resources>
